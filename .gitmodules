@@ -1,0 +1,12 @@
+[submodule "app/Plugin/FormData"]
+	path = app/Plugin/FormData
+	url = https://github.com/jamiebclark/FormData.git
+[submodule "app/Plugin/Layout"]
+	path = app/Plugin/Layout
+	url = https://github.com/jamiebclark/Layout.git
+[submodule "app/Plugin/TwitterBootstrap"]
+	path = app/Plugin/TwitterBootstrap
+	url = https://github.com/slywalker/TwitterBootstrap.git
+[submodule "app/Plugin/Uploadable"]
+	path = app/Plugin/Uploadable
+	url = https://github.com/jamiebclark/Uploadable.git
